@@ -1,8 +1,37 @@
-source:      .
-destination: ./_site
-includes:    ./_includes
-baseurl: /msaveski
+﻿# Site settings
+title: "Solbee Lee"
+email: solbee.lee@example.com
+description: "Personal website and portfolio"
+baseurl: ""
+url: "https://solbee.github.io"
 
+# GitHub Pages 설정
+github:
+  is_project_page: false
+  repository: SolBee/solbee.github.io
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Collections
 collections:
   projects:
     output: true
+    permalink: /:collection/:name/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
