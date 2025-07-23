@@ -2,16 +2,15 @@ papers:
 
   - image: "/assets/publications/test1.png"
     title: "Slot Occupancy-Based Collision Avoidance Algorithm for Very-High-Frequency Data Exchange System Network in Maritime Internet of Things"
-    authors: "<b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Bu-Young Kim, Woo-Seong Shim, Taeshik Shon, and Eui-Jik Kim"
+    authors: "<b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Bu-Young Kim, Woo-Seong Shim, Taeshik Shon, Eui-Jik Kim"
     venue: "Applied Sciences. 2024."
     paper_pdf: "/assets/publications/2025_cn_causal_effects/paper.pdf"
     selected: y
 
-  - title: "Supernotes: Driving Consensus in Crowd-Sourced Fact-Checking"
-    authors: "Soham De, Michiel A. Bakker, Jay Baxter, <b>Martin Saveski</b>"
-    venue: "WWW'25: The Web Conference. 2025."
+  - title: "Block-based Self-organizing TDMA for Reliable VDES in SANETs"
+    authors: "<b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Bu-Young Kim, Woo-Seong Shim, Dongwan Kim, Eui-Jik Kim"
+    venue: "KSII Transactions on Internet and Information Systems. 2024."
     paper_pdf: "/assets/publications/2024_supernotes/paper.pdf"
-    code: "https://github.com/saveski-lab/supernotes"
     selected: y
 
   - title: "Social Media Algorithms Can Shape Affective Polarization via Exposure to Antidemocratic Attitudes and Partisan Animosity"
