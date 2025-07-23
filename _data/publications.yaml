@@ -35,10 +35,11 @@ papers:
     paper_pdf: "/assets/publications/REE-MAC_Sensors_2021.pdf"    
     selected: y
 
-  - title: "Implementation of Integrated Electronic Health Record and Mobile Personal Health Record Datasets for Improving Healthcare Services"
+  - image: "/assets/publications/EHR.png"
+    title: "Implementation of Integrated Electronic Health Record and Mobile Personal Health Record Datasets for Improving Healthcare Services"
     authors: "<b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Eui-Jik Kim, Jaehoon Park"
     venue: "Sensors and Materials. 2018."
-    paper_pdf: "/assets/publications/2023_peer_review/paper.pdf"    
+    paper_pdf: "/assets/publications/EHR_S&M_2018.pdf"    
     selected: n
 
   - title: "Integrated Framework for Keyword-based Text Data Collection and Analysis"
