@@ -47,10 +47,11 @@ papers:
     paper_pdf: "/assets/publications/2023_embedding_societal_values/paper.pdf"
     selected: n
 
-  - title: "Energy-efficient Resource Directory Update Scheme for Constrained Application Protocol in Internet of Things"
+  - image: "/assets/publications/ERDU.png"
+    title: "Energy-efficient Resource Directory Update Scheme for Constrained Application Protocol in Internet of Things"
     authors: "Sungmo Kim, Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Jaehoon Park, Dongwan Kim, Eui-Jik Kim"
     venue: "Sensors and Materials. 2018."
-    paper_pdf: "/assets/publications/2022_newsbridge/paper.pdf"
+    paper_pdf: "/assets/publications/ERDU_S&M_2018.pdf"
     selected: n
 
   - title: "Group-based concurrent transmissions for spatial efficiency in IEEE 802.15. 7 visible light communications"
