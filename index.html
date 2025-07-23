@@ -80,6 +80,7 @@ title: Home
       {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
       {% for paper in selected_papers %}
         <div class="paper">
+          <p class="image"><b>{{ paper.image }}</b></p>
           <p class="title"><b>{{ paper.title }}</b></p>
           <p>{{ paper.authors }}</p>
           <p><i>{{ paper.venue }}</i></p>
@@ -116,6 +117,7 @@ title: Home
     <div class="tab-pane" id="papers-all">
       {% for paper in site.data.publications.papers %}
         <div class="paper">
+          <p class="image"><b>{{ paper.image }}</b></p>
           <p class="title"><b>{{ paper.title }}</b></p>
           <p>{{ paper.authors }}</p>
           <p><i>{{ paper.venue }}</i></p>
