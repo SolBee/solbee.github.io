@@ -80,7 +80,7 @@ title: Home
       {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
       {% for paper in selected_papers %}
         <div class="paper">
-          <p class="image"><b>{{ paper.image }}</b></p>
+          <img src="{{ paper.image }}" alt="{{ paper.title }}" class="paper-image">
           <p class="title"><b>{{ paper.title }}</b></p>
           <p>{{ paper.authors }}</p>
           <p><i>{{ paper.venue }}</i></p>
