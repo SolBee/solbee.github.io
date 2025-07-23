@@ -28,7 +28,8 @@ h4 {
   box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
 .paper-content {
   flex: 1;
-  min-width: 0; }
+  min-width: 0; 
+  background-color: blue; }
 .paper .title {
   /*text-transform: uppercase; */
   margin-top: 0; }
