@@ -10,7 +10,7 @@ papers:
   - title: "Block-based Self-organizing TDMA for Reliable VDES in SANETs"
     authors: "<b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Bu-Young Kim, Woo-Seong Shim, Dongwan Kim, Eui-Jik Kim"
     venue: "KSII Transactions on Internet and Information Systems. 2024."
-    paper_pdf: "/assets/publications/2024_supernotes/paper.pdf"
+    paper_pdf: "/assets/publications/BSO-TDMA_KSII_2024.pdf"
     selected: y
 
   - title: "Q-Learning-based Pending Zone Adjustment for Proximity Classification"
