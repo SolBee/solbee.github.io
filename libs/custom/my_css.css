@@ -206,3 +206,27 @@ h4 {
   .popover-item:first-child .popover-link:hover:after {
     border-bottom-color: #33C3F0; }
 }
+
+/* 모바일 반응형 스타일 - 맨 끝에 추가 */
+@media (max-width: 768px) {
+  .paper {
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .paper-image-container {
+    flex-shrink: 0;
+    text-align: center;
+  }
+  
+  .paper-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+  }
+  
+  .paper-content {
+    flex: 1;
+    min-width: 0;
+  }
+}
