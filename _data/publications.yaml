@@ -73,10 +73,11 @@ papers:
     video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
     selected: n
 
-  - title: "Association Rule-based Predictive Model for Machine Failure in Industrial Internet of Things"
+  - image: "/assets/publications/ARPM.png"
+    title: "Association Rule-based Predictive Model for Machine Failure in Industrial Internet of Things"
     authors: "Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Jaehoon Park, Eui-Jik Kim"
     venue: "Journal of Physics: Conference Series. 2017."
-    paper_pdf: "/assets/publications/2021_social_catalysts/paper.pdf"    
+    paper_pdf: "/assets/publications/ARPM_JoP_2017.pdf"    
     selected: n
 
     
