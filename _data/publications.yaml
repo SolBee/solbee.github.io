@@ -42,10 +42,11 @@ papers:
     paper_pdf: "/assets/publications/EHR_S&M_2018.pdf"    
     selected: n
 
-  - title: "Integrated Framework for Keyword-based Text Data Collection and Analysis"
+  - image: "/assets/publications/TDC.png"
+    title: "Integrated Framework for Keyword-based Text Data Collection and Analysis"
     authors: "Minki Cha, Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Jaehoon Park, Sungkwan Youm, Eui-Jik Kim"
     venue: "Sensors and Materials. 2018."
-    paper_pdf: "/assets/publications/2023_embedding_societal_values/paper.pdf"
+    paper_pdf: "/assets/publications/TDC_S&M_2018.pdf"
     selected: n
 
   - image: "/assets/publications/ERDU.png"
