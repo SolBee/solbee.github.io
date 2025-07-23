@@ -14,10 +14,11 @@ papers:
     paper_pdf: "/assets/publications/BSO-TDMA_KSII_2024.pdf"
     selected: y
 
-  - title: "Q-Learning-based Pending Zone Adjustment for Proximity Classification"
+  - image: "/assets/publications/QPZA.png"
+    title: "Q-Learning-based Pending Zone Adjustment for Proximity Classification"
     authors: "Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Eui-Jik Kim"
     venue: "Sensors. 2023."
-    paper_pdf: "/assets/publications/2024_feedwizard_exp/paper.pdf"
+    paper_pdf: "/assets/publications/QPZA_Sensors_2023.pdf"
     selected: y
 
   - title: "Multiple Concurrent Slotframe Scheduling for Wireless Power Transfer-Enabled Wireless Sensor Networks"
