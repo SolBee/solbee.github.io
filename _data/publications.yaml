@@ -13,9 +13,9 @@ papers:
     paper_pdf: "/assets/publications/2024_supernotes/paper.pdf"
     selected: y
 
-  - title: "Social Media Algorithms Can Shape Affective Polarization via Exposure to Antidemocratic Attitudes and Partisan Animosity"
-    authors: "Tiziano Piccardi<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>, Chenyan Jia<sup>‡</sup>, Jeffrey Hancock, Jeanne Tsai, Michael Bernstein"
-    venue: "Arxiv'24: arXiv preprint. 2024."
+  - title: "Q-Learning-based Pending Zone Adjustment for Proximity Classification"
+    authors: "Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Eui-Jik Kim"
+    venue: "Sensors. 2023."
     paper_pdf: "/assets/publications/2024_feedwizard_exp/paper.pdf"
     selected: y
 
