@@ -28,10 +28,11 @@ papers:
     paper_pdf: "/assets/publications/MCSS_Sensors_2022.pdf"    
     selected: y
 
-  - title: "Residual Energy Estimation-Based MAC Protocol for Wireless Powered Sensor Networks"
+  - image: "/assets/publications/REE-MAC.png"
+    title: "Residual Energy Estimation-Based MAC Protocol for Wireless Powered Sensor Networks"
     authors: "<b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Eui-Jik Kim"
     venue: "Sensors. 2021."
-    paper_pdf: "/assets/publications/2024_ope_lipschitz/paper.pdf"    
+    paper_pdf: "/assets/publications/REE-MAC_Sensors_2021.pdf"    
     selected: y
 
   - title: "Implementation of Integrated Electronic Health Record and Mobile Personal Health Record Datasets for Improving Healthcare Services"
