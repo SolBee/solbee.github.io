@@ -51,7 +51,7 @@ papers:
     authors: "Sungmo Kim, Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Jaehoon Park, Dongwan Kim, Eui-Jik Kim"
     venue: "Sensors and Materials. 2018."
     paper_pdf: "/assets/publications/2022_newsbridge/paper.pdf"
-    selected: y
+    selected: n
 
   - title: "Group-based concurrent transmissions for spatial efficiency in IEEE 802.15. 7 visible light communications"
     authors: "Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Eui-Jik Kim"
