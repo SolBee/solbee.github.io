@@ -21,7 +21,7 @@ h4 {
 .paper-image-container {
   flex-shrink: 0; }
 .paper-image {
-  width: 200px;
+  width: 250px;
   height: 150px;
   object-fit: cover;
   border-radius: 8px;
