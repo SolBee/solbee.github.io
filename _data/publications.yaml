@@ -104,6 +104,16 @@ papers:
 
 
 
+
+  - image: "/assets/publications/PVS.png"
+    title: "BlockEdge-based Private Virtual Storage for Personal Data Privacy Protection"
+    authors: "Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Eui-Jik Kim"
+    venue: "ISC2'24: IEEE International Smart Cities Conference. 2024."
+    paper_pdf: "/assets/publications/PVS_ISC2_2024.pdf"
+    journal: "n"
+    conference: "y"
+    selected: "y"
+    
   - image: "/assets/publications/TaAID.png"
     title: "Traffic-aware GTS Allocation Interval Determination for IEEE 802.15.4 DSME Networks"
     authors: "Inhyeok Kang, <b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Eui-Jik Kim"
