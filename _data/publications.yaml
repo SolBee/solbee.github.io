@@ -112,7 +112,7 @@ papers:
     paper_pdf: "/assets/publications/PVS_ISC2_2024.pdf"
     journal: "n"
     conference: "y"
-    selected: "y"
+    selected: "n"
     
   - image: "/assets/publications/TaAID.png"
     title: "Traffic-aware GTS Allocation Interval Determination for IEEE 802.15.4 DSME Networks"
