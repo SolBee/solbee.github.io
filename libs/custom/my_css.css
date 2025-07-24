@@ -85,6 +85,8 @@ h4 {
 .project-caption {
   padding: 3px;
 }
+.tab-pane { display: none; }
+.tab-pane.active { display: block; }
 
 /* Larger than phone */
 @media (min-width: 550px) {
