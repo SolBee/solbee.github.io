@@ -120,7 +120,7 @@ title: Home
       {% endfor %}
     </div> -->
 
-    <div class="tab-pane" id="papers-journals">
+    <div class="tab-pane active" id="papers-journals">
       {% assign journal = site.data.publications.papers | where: "journal", "y" %}
       {% for paper in journal %}
         <div class="paper">
