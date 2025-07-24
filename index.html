@@ -161,8 +161,8 @@ title: Home
     </div>
 
     <div class="tab-pane" id="papers-conferences">
-      {% assign conference = site.data.publications.papers | where: "conference", "y" %}
-      {% for paper in conference %}
+      {% assign conferences = site.data.publications.papers | where: "conference", "y" %}
+      {% for paper in conferences %}
         <div class="paper">
           <div class="paper-image-container">
             <img src="{{ paper.image }}" alt="{{ paper.title }}" class="paper-image">
