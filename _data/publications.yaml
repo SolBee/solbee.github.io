@@ -99,6 +99,11 @@ papers:
     conference: "n"
     selected: "n"
 
+
+
+
+
+
   - image: "/assets/publications/TaAID.png"
     title: "Traffic-aware GTS Allocation Interval Determination for IEEE 802.15.4 DSME Networks"
     authors: "Inhyeok Kang, <b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Eui-Jik Kim"
@@ -107,4 +112,30 @@ papers:
     journal: "n"
     conference: "y"
     selected: "y"
-    
+
+  - image: "/assets/publications/TaAID.png"
+    title: "Q-learning-based Traffic-aware Parent Selection for Wireless Powered Sensor Networks"
+    authors: "<b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Eui-Jik Kim"
+    venue: "ICAIIC'24: International Conference on Artificial Intelligence in Information and Communication. 2024."
+    paper_pdf: "/assets/publications/TaAID_eScience_2024.pdf"
+    journal: "n"
+    conference: "y"
+    selected: "y"
+
+  - image: "/assets/publications/TaAID.png"
+    title: "Electroencephalography-based Fatigue Assessment for Internet of Medical Things System"
+    authors: "Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Eui-Jik Kim"
+    venue: "APIC-IST'23: Asia Pacific International Conference on Information Science and Technology. 2023."
+    paper_pdf: "/assets/publications/TaAID_eScience_2024.pdf"
+    journal: "n"
+    conference: "y"
+    selected: "y"
+
+  - image: "/assets/publications/TaAID.png"
+    title: "Impact of Slotframe Length on Performance of TSCH-based Wireless Powered Sensor Networks"
+    authors: "<b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Eui-Jik Kim"
+    venue: "CPEEE'23: International Conference on Power, Energy and Electrical Engineering. 2023."
+    paper_pdf: "/assets/publications/TaAID_eScience_2024.pdf"
+    journal: "n"
+    conference: "y"
+    selected: "y"
