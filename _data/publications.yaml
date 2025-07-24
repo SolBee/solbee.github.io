@@ -5,106 +5,106 @@ papers:
     authors: "<b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Bu-Young Kim, Woo-Seong Shim, Taeshik Shon, Eui-Jik Kim"
     venue: "Applied Sciences. 2024."
     paper_pdf: "/assets/publications/SOCA_AppliedScience_2024.pdf"
-    journal: y
-    conference: n
-    selected: y
+    journal: "y"
+    conference: "n"
+    selected: "y"
 
   - image: "/assets/publications/BSO-TDMA.png"
     title: "Block-based Self-organizing TDMA for Reliable VDES in SANETs"
     authors: "<b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Bu-Young Kim, Woo-Seong Shim, Dongwan Kim, Eui-Jik Kim"
     venue: "KSII Transactions on Internet and Information Systems. 2024."
     paper_pdf: "/assets/publications/BSO-TDMA_KSII_2024.pdf"
-    journal: y
-    conference: n
-    selected: y
+    journal: "y"
+    conference: "n"
+    selected: "y"
 
   - image: "/assets/publications/QPZA.png"
     title: "Q-Learning-based Pending Zone Adjustment for Proximity Classification"
     authors: "Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Eui-Jik Kim"
     venue: "Sensors. 2023."
     paper_pdf: "/assets/publications/QPZA_Sensors_2023.pdf"
-    journal: y
-    conference: n
-    selected: y
+    journal: "y"
+    conference: "n"
+    selected: "y"
 
   - image: "/assets/publications/MCSS.png"
     title: "Multiple Concurrent Slotframe Scheduling for Wireless Power Transfer-Enabled Wireless Sensor Networks"
     authors: "<b>Sol-Bee Lee</b>, Sam Nguyen-Xuan, Jung-Hyok Kwon, Eui-Jik Kim"
     venue: "Sensors. 2022."
     paper_pdf: "/assets/publications/MCSS_Sensors_2022.pdf"    
-    journal: y
-    conference: n
-    selected: y
+    journal: "y"
+    conference: "n"
+    selected: "y"
 
   - image: "/assets/publications/REE-MAC.png"
     title: "Residual Energy Estimation-Based MAC Protocol for Wireless Powered Sensor Networks"
     authors: "<b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Eui-Jik Kim"
     venue: "Sensors. 2021."
     paper_pdf: "/assets/publications/REE-MAC_Sensors_2021.pdf"    
-    journal: y
-    conference: n
-    selected: y
+    journal: "y"
+    conference: "n"
+    selected: "y"
 
   - image: "/assets/publications/EHR.png"
     title: "Implementation of Integrated Electronic Health Record and Mobile Personal Health Record Datasets for Improving Healthcare Services"
     authors: "<b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Eui-Jik Kim, Jaehoon Park"
     venue: "Sensors and Materials. 2018."
     paper_pdf: "/assets/publications/EHR_S&M_2018.pdf"    
-    journal: y
-    conference: n
-    selected: n
+    journal: "y"
+    conference: "n"
+    selected: "n"
 
   - image: "/assets/publications/TDC.png"
     title: "Integrated Framework for Keyword-based Text Data Collection and Analysis"
     authors: "Minki Cha, Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Jaehoon Park, Sungkwan Youm, Eui-Jik Kim"
     venue: "Sensors and Materials. 2018."
     paper_pdf: "/assets/publications/TDC_S&M_2018.pdf"
-    journal: y
-    conference: n
-    selected: n
+    journal: "y"
+    conference: "n"
+    selected: "n"
 
   - image: "/assets/publications/ERDU.png"
     title: "Energy-efficient Resource Directory Update Scheme for Constrained Application Protocol in Internet of Things"
     authors: "Sungmo Kim, Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Jaehoon Park, Dongwan Kim, Eui-Jik Kim"
     venue: "Sensors and Materials. 2018."
     paper_pdf: "/assets/publications/ERDU_S&M_2018.pdf"
-    journal: y
-    conference: n
-    selected: n
+    journal: "y"
+    conference: "n"
+    selected: "n"
 
   - image: "/assets/publications/GCT.png"
     title: "Group-based concurrent transmissions for spatial efficiency in IEEE 802.15. 7 visible light communications"
     authors: "Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Eui-Jik Kim"
     venue: "Applied Mathematical Modelling. 2018."
     paper_pdf: "/assets/publications/GCT_AMM_2018.pdf"    
-    journal: y
-    conference: n
-    selected: y
+    journal: "y"
+    conference: "n"
+    selected: "y"
 
   - image: "/assets/publications/ARO.png"
     title: "Adaptive Resource Observation for Congestion Alleviation using Constrained Application Protocol"
     authors: "Jung-Hyok Kwon, <b>Sol-Bee Lee<b/>, Jaehoon Park, Kyu-Sung Hwang, Yongseok Lim, Eui-Jik Kim"
     venue: "International Journal of Engineering and Technology (UAE). 2018."
     paper_pdf: "/assets/publications/ARO_IJET_2018.pdf"
-    journal: y
-    conference: n
-    selected: n
+    journal: "y"
+    conference: "n"
+    selected: "n"
 
   - image: "/assets/publications/ARPM.png"
     title: "Association Rule-based Predictive Model for Machine Failure in Industrial Internet of Things"
     authors: "Jung-Hyok Kwon, <b>Sol-Bee Lee</b>, Jaehoon Park, Eui-Jik Kim"
     venue: "Journal of Physics: Conference Series. 2017."
     paper_pdf: "/assets/publications/ARPM_JoP_2017.pdf"
-    journal: y
-    conference: n
-    selected: n
+    journal: "y"
+    conference: "n"
+    selected: "n"
 
   - image: "/assets/publications/ARPM.png"
     title: "Traffic-aware GTS Allocation Interval Determination for IEEE 802.15.4 DSME Networks,"
     authors: "Inhyeok Kang, <b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Eui-Jik Kim"
     venue: "e-Science'24: IEEE International Conference on e-Science. 2024."    
     paper_pdf: "/assets/publications/ARPM_JoP_2017.pdf"
-    journal: n
-    conference: y
-    selected: y
+    journal: "n"
+    conference: "y"
+    selected: "y"
     
