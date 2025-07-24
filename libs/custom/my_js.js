@@ -89,10 +89,8 @@ $(document).ready(function() {
   }
 
   $('.tab-nav .button').on('click', function() {
-    // 버튼 active 클래스 제어
     $('.tab-nav .button').removeClass('active');
     $(this).addClass('active');
-    // 패널 active 클래스 제어
     $('.tab-pane').removeClass('active');
     var ref = $(this).attr('data-ref');
     $(ref).addClass('active');
