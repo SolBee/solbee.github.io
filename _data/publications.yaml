@@ -8,6 +8,7 @@ papers:
     journal: "y"
     conference: "n"
     selected: "y"
+    conference_short: "Applied Sciences"
 
   - image: "/assets/publications/BSO-TDMA.png"
     title: "Block-based Self-organizing TDMA for Reliable VDES in SANETs"
