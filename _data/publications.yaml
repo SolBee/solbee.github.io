@@ -103,7 +103,23 @@ papers:
 
 
 
+  - image: "/assets/publications/DC-TAS.png"
+    title: "Delay-Compensated Time-Aware Shaper for Automotive Time-Sensitive Networks"
+    authors: "<b>Sol-Bee Lee</b>, Inhyeok Kang, Jung-Hyok Kwon, Eui-Jik Kim"
+    venue: "ICKII'25. 2025."
+    paper_pdf: "/assets/publications/DC-TAS_ICKII_2025.pdf"
+    journal: "n"
+    conference: "y"
+    selected: "y"
 
+  - image: "/assets/publications/TRA.png"
+    title: "Delay-Compensated Time-Aware Shaper for Automotive Time-Sensitive Networks"
+    authors: "Inhyeok Kang, <b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Eui-Jik Kim"
+    venue: "ICKII'25. 2025."
+    paper_pdf: "/assets/publications/TRA_ICKII_2025.pdf"
+    journal: "n"
+    conference: "y"
+    selected: "n"
 
   - image: "/assets/publications/PVS.png"
     title: "BlockEdge-based Private Virtual Storage for Personal Data Privacy Protection"
