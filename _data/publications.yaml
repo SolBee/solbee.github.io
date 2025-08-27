@@ -145,6 +145,7 @@ papers:
     authors: "<b>Sol-Bee Lee</b>, Jung-Hyok Kwon, Eui-Jik Kim"
     venue: "ICAIIC'24: International Conference on Artificial Intelligence in Information and Communication. 2024."
     paper_pdf: "/assets/publications/QTaPS_ICAIIC_2024.pdf"
+    poster: "/assets/publications/QTaPS_ICAIIC_2024_poster.pdf"
     journal: "n"
     conference: "y"
     selected: "y"
