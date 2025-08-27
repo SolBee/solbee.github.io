@@ -104,6 +104,9 @@ title: Home
         <div class="paper">
           <div class="paper-image-container">
             <img src="{{ paper.image }}" alt="{{ paper.title }}" class="paper-image">
+            {% if paper.badge %}
+              <span class="badge badge--corner badge--primary">{{ paper.badge }}</span>
+            {% endif %}
           </div>
           <div class="paper-content">
             <p class="title"><b>{{ paper.title }}</b></p>
